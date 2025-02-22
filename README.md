@@ -1,1 +1,1 @@
-# Multi Agentic RAG
+# Agentic RAG
